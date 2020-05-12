@@ -8,7 +8,7 @@
 [opening-a-new-customer]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#3opening-a-new-customer
 [consulting-a-new-services]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#4consulting-and-services
 [sales-enablement]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#5sales-enablement
-[rock-sales-record-book]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdrock-sales-record-book
+[rock-sales-record-book]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#6rock-sales-record-book
 [rock-extras]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdrock-extras
 [sales-best-practices]:https://github.com/HRRock/Sales-playbook/blob/master/README.mdsales-best-practices
 [training-on-pricing]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdtraining-on-pricing
