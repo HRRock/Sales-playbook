@@ -1,6 +1,7 @@
 # SALE'S PLAYBOOK
 
-Table of Contests
+**Table of Contests**
+
 * [1.HUBSPOT CRM AND LEAD ROTATION](https://github.com/HRRock/github-slideshow/wiki/HUBSPOT-CRM-AND-LEAD-ROTATION)
 * [2.ROCK SALES PROCESS GUIDES](https://github.com/HRRock/github-slideshow/wiki/ROCK-SALES-PROCESS-GUIDES)   
 * [ -Guide to Rapport Building](https://github.com/HRRock/github-slideshow/wiki/Guide-to-Rapport-Building)
