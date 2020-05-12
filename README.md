@@ -1,21 +1,36 @@
+[hubspot-crm-and-lead-rotation]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdhubspot-crm-and-lead-rotation
+[rock-sales-process-guide]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdrock-sales-process-guide
+[guide-to-rapport-building]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdguide-to-rapport-building
+[dba-guide]: https://github.com/HRRock/Sales-playbook/blob/master/README.mddba-guide
+[dba-samples]: https://github.com/HRRock/Sales-playbook/blob/master/README.mddba-samples
+[champs-letters-samples]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdchamps-letters-samples
+[contract-confirmation]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdcontract-confirmation
+[opening-a-new-customer]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdopening-a-new-customer
+[consulting-a-new-services]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdconsulting-a-new-services
+[sales-enablement]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdsales-enablement
+[rock-sales-record-book]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdrock-sales-record-book
+[rock-extras]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdrock-extras
+[sales-best-practices]:https://github.com/HRRock/Sales-playbook/blob/master/README.mdsales-best-practices
+[training-on-pricing]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdtraining-on-pricing
+
 # Sales's Playbook
 
 ## Table of Contents
 
-* [1.HUBSPOT CRM AND LEAD ROTATION](https://github.com/HRRock/github-slideshow/wiki/HUBSPOT-CRM-AND-LEAD-ROTATION)
-* [2.ROCK SALES PROCESS GUIDES](https://github.com/HRRock/github-slideshow/wiki/ROCK-SALES-PROCESS-GUIDES)   
-  *   [ 2.1 Guide to Rapport Building](https://github.com/HRRock/github-slideshow/wiki/Guide-to-Rapport-Building)
-  *   [ 2.2 DBA Guide](https://github.com/HRRock/github-slideshow/wiki/DBA-Guide)
-  *   [ 2.3 DBA Samples](https://github.com/HRRock/github-slideshow/wiki/DBA-Ssamples)
-  *   [ 2.4 Champs Letters Samples](https://github.com/HRRock/github-slideshow/wiki/Champs-Letters-Samples)
-  *   [ 2.5Contract Confirmation ](https://github.com/HRRock/github-slideshow/wiki/Contract-Confirmation)		
-* [3.OPENING A NEW CUSTOMER](https://github.com/HRRock/github-slideshow/wiki/OPENING-A-NEW-CUSTOMER)	
-* [4.CONSULTING AND SERVICES](https://github.com/HRRock/github-slideshow/wiki/CONSULTING-AND-SERVICES)	
-* [5.SALES ENABLEMENT](https://github.com/HRRock/github-slideshow/wiki/SALES-ENABLEMENT)	
-* [6.ROCK SALES RECORD BOOK](https://github.com/HRRock/github-slideshow/wiki/ROCK-SALES-RECORD-BOOK)	
-* [7.ROCK EXTRAS](https://github.com/HRRock/github-slideshow/wiki/ROCK-EXTRAS)	
-* [8.SALES BEST PRACTICES](https://github.com/HRRock/github-slideshow/wiki/SALES-BEST-PRACTICES)	
-* TRAINING ON PRICING
+* [1.HUBSPOT CRM AND LEAD ROTATION][hubspot-crm-and-lead-rotation]
+* [2.ROCK SALES PROCESS GUIDES][rock-sales-process-guide]  
+  *   [ 2.1 Guide to Rapport Building][guide-to-rapport-building]
+  *   [ 2.2 DBA Guide][dba-guide]
+  *   [ 2.3 DBA Samples][dba-samples]
+  *   [ 2.4 Champs Letters Samples][champs-letters-samples]
+  *   [ 2.5 Contract Confirmation][contract-confirmation]
+* [3.OPENING A NEW CUSTOMER][opening-a-new-customer]
+* [4.CONSULTING AND SERVICES][consulting-a-new-services]
+* [5.SALES ENABLEMENT][sales-enablement]
+* [6.ROCK SALES RECORD BOOK][rock-sales-record-book]
+* [7.ROCK EXTRAS][rock-extras]	
+* [8.SALES BEST PRACTICES][sales-best-practices]	
+* [TRAINING ON PRICING][training-on-pricing]
 
 
 
