@@ -231,7 +231,6 @@ https://docs.google.com/presentation/d/19nLxdzy8tr3g7ZmO2tmdExWKUQoaLd5855i8M0uR
 https://docs.google.com/document/d/1BF1rSgPt1hfnqKRDI9-O409mx2YixVpYy5GDq867rH4/edit?ts=56a22a1c#heading=h.yb6wgay1wfvo
 
 * **Blog Set Up Guide (Caixeta) - Jan 2016** 
-
 https://docs.google.com/document/d/1ruHY9TOA-xubjhPRt8ssTqv_4LTOutTd4CqVUVaJnqU/edit#heading=h.28mdn34dub05
 
 * **Blog Set-up PDF for Customers (Caixeta) Jan 2016**
