@@ -205,3 +205,40 @@ https://docs.google.com/document/d/1ZNGuUAMQeNyoakSt_eDyZRnvBAfkVqw3mDk8VTzVwls/
 * **The secret of Rafinha to Sell a lot - Good education - Feb 2017**
 
 https://docs.google.com/presentation/d/1qEUsHviYK6zpknliyEV8uT5zVmEwE1H93pDbhbACQ8g/edit#slide=id.g20e17ef5e8_0_794
+
+## 3.OPENING A NEW CUSTOMER
+* **Email to send before signed contract - Invoice + IS alignment**
+
+https://docs.google.com/a/rockcontent.com/document/d/1kiZg8UzTq47D4dDGk5WKi0s8yvMZ2piHL5fQem9UbE4/edit?usp=sharing
+
+* **CS + Sales Alignment (Neffa) - March 2016**
+
+https://docs.google.com/a/rockcontent.com/document/d/18U2Hj8QWUwj7Roz_xR3Iyji2uruQ7v3N9NnGRTstpLA/edit?usp=sharing
+
+* **Checklist: Complete Guide On How to Open A New Customer Account**
+(Pending)
+
+* **The Oak Tree CS Info Form**
+
+https://docs.google.com/document/d/1OFWLGK8BfsEfQFnCyYKlO3GRCsjQ31ggPO3sfx9_pgM/edit
+
+* **Full New Customer On-boarding Process (Raff) -  March 2016 (Current)**
+
+https://docs.google.com/presentation/d/1YpBbYc-Q06qZWhAH-jF2mJdgrLG-4ZHKFBbu6eaDemY/edit#slide=id.p
+
+* **CS Form Link (Old)**
+
+http://materiais.rockcontent.com/passagemdeclientes
+
+* **Processo de passagem de vendas para o financeiro e CS** 
+
+https://docs.google.com/document/d/11uAT6nIGFaWzXoCAUyiMDm-Kip0xv9INz9GB4HjQa9c/edit?ts=569e75a4
+
+* **CS Requirements (Updated)**
+
+https://docs.google.com/document/d/1qHbswR2oxIpyfTpLEA2KTk-NuC0PWeoLMUP4w2Xjz8w/edit
+
+* **Finance Info & Commission Tracking (LuLu) - Jan 2016 (Old)**
+
+https://docs.google.com/document/d/11uAT6nIGFaWzXoCAUyiMDm-Kip0xv9INz9GB4HjQa9c/edit?ts=569e75a4
+
