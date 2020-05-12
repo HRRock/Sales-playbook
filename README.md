@@ -2,7 +2,7 @@
 [rock-sales-process-guide]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#2rock-sales-process-guides
 [guide-to-rapport-building]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#21-guide-to-rapport-building
 [dba-guide]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#22-dba-guide
-[dba-samples]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#22-dba-guide
+[dba-samples]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#23-dba-samples
 [champs-letters-samples]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdchamps-letters-samples
 [contract-confirmation]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#22-dba-guide
 [opening-a-new-customer]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdopening-a-new-customer
