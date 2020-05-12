@@ -13,7 +13,7 @@
 [sales-best-practices]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#7rock-extras
 [training-on-pricing]:
 
-# Sales's Playbook
+# Sales Playbook
 
 ## Table of Contents
 
