@@ -60,7 +60,7 @@ https://docs.google.com/a/rockcontent.com/document/d/15hqnGof_fv0HFZIoo8IQ0ZVMGO
 https://rockers.rockcontent.com/wiki/passo-a-passo-numeros-de-promocao-pres-club-e-rehab/
 
 * **Identifying Good Fit-Bad Fit (Gui) - May 2016**
-https://docs.google.com/a/rockcontent.com/presentation/d/1AdiR-qf2LSZIASieHEB-OpBNWzDzDCvGBPPmK1Uj-FY/edit usp=sharing
+https://docs.google.com/a/rockcontent.com/presentation/d/1AdiR-qf2LSZIASieHEB-OpBNWzDzDCvGBPPmK1Uj-FY/editusp=sharing
 
 * **Operational criteria for lead qualification(Rita)**
 https://docs.google.com/spreadsheets/d/1bvgApxak7-brIrEYLD_8CXsUTNJeux7hsAfuVTscP6M/edit#gid=0
