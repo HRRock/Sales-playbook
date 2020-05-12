@@ -4,7 +4,7 @@
 [dba-guide]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#22-dba-guide
 [dba-samples]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#22-dba-guide
 [champs-letters-samples]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdchamps-letters-samples
-[contract-confirmation]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdcontract-confirmation
+[contract-confirmation]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#22-dba-guide
 [opening-a-new-customer]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdopening-a-new-customer
 [consulting-a-new-services]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdconsulting-a-new-services
 [sales-enablement]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdsales-enablement
