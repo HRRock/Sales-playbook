@@ -4,11 +4,11 @@
 
 * [1.HUBSPOT CRM AND LEAD ROTATION](https://github.com/HRRock/github-slideshow/wiki/HUBSPOT-CRM-AND-LEAD-ROTATION)
 * [2.ROCK SALES PROCESS GUIDES](https://github.com/HRRock/github-slideshow/wiki/ROCK-SALES-PROCESS-GUIDES)   
-* [ 2.1 Guide to Rapport Building](https://github.com/HRRock/github-slideshow/wiki/Guide-to-Rapport-Building)
-* [ 2.2 DBA Guide](https://github.com/HRRock/github-slideshow/wiki/DBA-Guide)
-* [ 2.3 DBA Samples](https://github.com/HRRock/github-slideshow/wiki/DBA-Ssamples)
-* [ 2.4 Champs Letters Samples](https://github.com/HRRock/github-slideshow/wiki/Champs-Letters-Samples)
-* [ 2.5Contract Confirmation ](https://github.com/HRRock/github-slideshow/wiki/Contract-Confirmation)		
+*   [ 2.1 Guide to Rapport Building](https://github.com/HRRock/github-slideshow/wiki/Guide-to-Rapport-Building)
+*   [ 2.2 DBA Guide](https://github.com/HRRock/github-slideshow/wiki/DBA-Guide)
+*   [ 2.3 DBA Samples](https://github.com/HRRock/github-slideshow/wiki/DBA-Ssamples)
+*   [ 2.4 Champs Letters Samples](https://github.com/HRRock/github-slideshow/wiki/Champs-Letters-Samples)
+*   [ 2.5Contract Confirmation ](https://github.com/HRRock/github-slideshow/wiki/Contract-Confirmation)		
 * [3.OPENING A NEW CUSTOMER](https://github.com/HRRock/github-slideshow/wiki/OPENING-A-NEW-CUSTOMER)	
 * [4.CONSULTING AND SERVICES](https://github.com/HRRock/github-slideshow/wiki/CONSULTING-AND-SERVICES)	
 * [5.SALES ENABLEMENT](https://github.com/HRRock/github-slideshow/wiki/SALES-ENABLEMENT)	
@@ -59,7 +59,7 @@ https://docs.google.com/a/rockcontent.com/document/d/1kJm1FBJ4HKENl9VIypFz60DjeL
 * **Good filters list building by Clarinha**
 https://docs.google.com/presentation/d/1C3Af0j3sz26XLuCVAgnUzAd38IIfqhdVgN_TWq6CO4/edit#slide=id.g13513b52a1_0_5
 
-## 2.1 Guide to rapport building 
+  ## 2.1 Guide to rapport building 
 
 * **Connect Call Slide Dec**k (Gui & Aspira) - Feb 2016
 https://docs.google.com/a/rockcontent.com/presentation/d/1gwDngrMS3oA8pO7p9FMOoaDmC_VE6-Mjk_XiGYc_OhA/edit usp=sharing
@@ -74,7 +74,7 @@ https://docs.google.com/document/d/1yOXSkLQ3dX_gdB4GHil827-2P586eW86KQqic1yQvzs/
 
 * **Connect E-mails**
 
-## 2.2 DBA Guide
+  ## 2.2 DBA Guide
 
 * **DBA Slide Deck Part 1 (Gui) - Feb 2016**
 https://docs.google.com/a/rockcontent.com/presentation/d/1Zjmr2tkBDGir61fwyCcKWU2UJEQ5gEYkedUNWy_KGbA/edit?usp=sharing
@@ -107,7 +107,7 @@ https://docs.google.com/document/d/1yLIxmUoNEV0XwQgRX4XJAr3T-tJxLD1bgl4YTsCy_OY/
 * **What if you don’t? - Using consequence as a key to open deals (Edu) - Oct 16**
 https://docs.google.com/a/rockcontent.com/presentation/d/1MeTHT2HhJH4wMaWWz1WZx3ZXmKp5laSnu8bQ2jNkRg8/edit?usp=sharing
 
-## 2.3 DBA Samples
+  ## 2.3 DBA Samples
 
 * **Business Goals Workshop (Gui) - Feb 2016**
 https://docs.google.com/a/rockcontent.com/document/d/1pYPSRS0BvkiuCOjvyiB2ND2WVK22zIGeofVA3AYw9nA/edit?usp=sharing
@@ -130,7 +130,7 @@ https://docs.google.com/document/d/1FNVng4VAjxSU43DmcrJdFoootQWouqWq5VfSQM-OOOk/
 * **Getting to the DM - Partner (Matt) - Feb 2016**
 https://docs.google.com/document/d/1LbF-pBQ0ASQrRwSBUo-L4nQppPck-HWWNAzXzCxH76w/edit
 
-## 2.4 Champs Letters Samples
+  ## 2.4 Champs Letters Samples
 
 * **Babi Moreira - Feb 2016**
 https://docs.google.com/document/d/1Tvjq4yXXsXhci8tjuy0b9uOt899a9DZ7D9pg-QchfTI/edit         
@@ -158,7 +158,7 @@ https://docs.google.com/document/d/1az5EMf3soO9KdMNI0xnZWYtH7XfRcSqm4XphITf4NM8/
 * **How & When to Offer a Discount (Matt) - Feb 2016**
 https://docs.google.com/document/d/17vzvvv2ZSJJ1Alfr6DWzhSxc04fOpHnHQY_wkJs6ab4/edit
 
-## 2.5 Contract Confirmation 
+  ## 2.5 Contract Confirmation 
 
 * **Rock 2016 Price Sheet (Matt) - Feb 2016 (substituir)**
 file:///C:/Users/rockcontent/Downloads/tabela-de-prec%CC%A7os-atualizada%20(1).pdf
