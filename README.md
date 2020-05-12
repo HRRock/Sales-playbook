@@ -1,5 +1,5 @@
-[hubspot-crm-and-lead-rotation]: https://github.com/HRRock/Sales-playbook/blob/master/README.md#1hubspot-crm-and-lead-rotation
-[rock-sales-process-guide]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdrock-sales-process-guide
+[hubspot-crm-and-lead-rotation]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#1hubspot-crm-and-lead-rotation
+[rock-sales-process-guide]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#2rock-sales-process-guides
 [guide-to-rapport-building]: https://github.com/HRRock/Sales-playbook/blob/master/README.mdguide-to-rapport-building
 [dba-guide]: https://github.com/HRRock/Sales-playbook/blob/master/README.mddba-guide
 [dba-samples]: https://github.com/HRRock/Sales-playbook/blob/master/README.mddba-samples
