@@ -31,8 +31,8 @@
 * [6.ROCK SALES RECORD BOOK][rock-sales-record-book]
 * [7.ROCK EXTRAS][rock-extras]	
 * [8.SALES BEST PRACTICES][sales-best-practices]	
-* [9.TRAINING ON PRICING][training-on-pricing]
-* [10.UPFRONT FEE][upfront-fee]
+* 9.TRAINING ON PRICING
+* [10.UPFRONT FEE][UPFRONT-FEE]
 
 
 
