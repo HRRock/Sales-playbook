@@ -11,7 +11,7 @@
 [rock-sales-record-book]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#6rock-sales-record-book
 [rock-extras]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#7rock-extras
 [sales-best-practices]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#7rock-extras
-[training-on-pricing]:
+[training-on-pricing]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#9training-on-pricing
 [upfront-fee]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#10upfront-fee
 
 # Sales Playbook
@@ -32,7 +32,7 @@
 * [7.ROCK EXTRAS][rock-extras]	
 * [8.SALES BEST PRACTICES][sales-best-practices]	
 * 9.TRAINING ON PRICING
-* [10.UPFRONT FEE][upfront-fee]
+* [10.UPFRONT FEE]
 
 
 
