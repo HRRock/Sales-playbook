@@ -13,6 +13,7 @@
 [sales-best-practices]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#7rock-extras
 [training-on-pricing]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#9training-on-pricing
 [upfront-fee]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#10upfront-fee
+[how-to-react-to-an-objection]
 
 # Sales Playbook
 
@@ -33,6 +34,7 @@
 * [8.SALES BEST PRACTICES][sales-best-practices]	
 * [9.TRAINING ON PRICING][training-on-pricing]
 * [10.UPFRONT FEE][upfront-fee]
+* [11.HOW TO REACT TO AN OBJECTION][how-to-react-to-an-objection]
 
 
 
@@ -356,3 +358,6 @@ https://docs.google.com/presentation/d/1yZGXJG9cZHRN-zm3Bd4JLDemx2mmQ1SWrNyJi34L
 
 ## 10.UPFRONT FEE
 https://docs.google.com/document/d/121CRkifyIGr6gtwiSBAJQoQWQytDzAjUW4HWaOn7go4/edit?ts=5eb96775
+
+## 11.HOW TO REACT TO AN OBJECTION
+https://blog.hubspot.com/sales/timing-objection-responses
