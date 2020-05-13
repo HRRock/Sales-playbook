@@ -12,6 +12,7 @@
 [rock-extras]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#7rock-extras
 [sales-best-practices]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#7rock-extras
 [training-on-pricing]:
+[Upfront fee]:
 
 # Sales Playbook
 
@@ -31,6 +32,7 @@
 * [7.ROCK EXTRAS][rock-extras]	
 * [8.SALES BEST PRACTICES][sales-best-practices]	
 * [TRAINING ON PRICING][training-on-pricing]
+* [UPFRONT FEE][upfront-fee]
 
 
 
@@ -328,7 +330,6 @@ Inbound.org (The biggest forum for inbound marketing online)
 http://visualcontenting.com/wp-content/uploads/2014/07/77ae7c35a2d4c1cf9ae4e4188c63fe8e.jpg
 
 ## 6.ROCK SALES RECORD BOOK
-
 https://docs.google.com/document/d/1S2wVsNy7VjaAfgBdLPwaVM8RpUWicqQSz0UO0aMAIyc/edit
 
 ## 7.ROCK EXTRAS
@@ -351,3 +352,6 @@ https://drive.google.com/a/rockcontent.com/file/d/0B3w4IWCOQQzrdGhKY0dGb2ZjN1E/v
 https://drive.google.com/open?id=0B4n7YraRycNeMFhhREg3VFk4MnpoSkRsVWx1Q0ZnLUhDMG9j
 
 ## 9.TRAINING ON PRICING
+
+## 9.UPFRONT FEE
+https://docs.google.com/document/d/121CRkifyIGr6gtwiSBAJQoQWQytDzAjUW4HWaOn7go4/edit?ts=5eb96775
