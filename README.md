@@ -13,7 +13,7 @@
 [sales-best-practices]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#7rock-extras
 [training-on-pricing]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#9training-on-pricing
 [upfront-fee]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#10upfront-fee
-[how-to-react-to-an-objection]
+[how-to-react-to-an-objection]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#11how-to-react-to-an-objection
 
 # Sales Playbook
 
