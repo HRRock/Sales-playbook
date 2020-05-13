@@ -32,7 +32,7 @@
 * [7.ROCK EXTRAS][rock-extras]	
 * [8.SALES BEST PRACTICES][sales-best-practices]	
 * 9.TRAINING ON PRICING
-* [10.UPFRONT FEE][upfront-fee]
+* [10.UPFRONT FEE][upfront-fee]	
 
 
 
