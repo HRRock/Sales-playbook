@@ -32,7 +32,7 @@
 * [7.ROCK EXTRAS][rock-extras]	
 * [8.SALES BEST PRACTICES][sales-best-practices]	
 * 9.TRAINING ON PRICING
-* [10.UPFRONT FEE][upfront-fee]	
+* [10.UPFRONT FEE][upfront-fee]
 
 
 
@@ -352,6 +352,7 @@ https://drive.google.com/a/rockcontent.com/file/d/0B3w4IWCOQQzrdGhKY0dGb2ZjN1E/v
 https://drive.google.com/open?id=0B4n7YraRycNeMFhhREg3VFk4MnpoSkRsVWx1Q0ZnLUhDMG9j
 
 ## 9.TRAINING ON PRICING
+https://docs.google.com/presentation/d/1yZGXJG9cZHRN-zm3Bd4JLDemx2mmQ1SWrNyJi34Lo8U/edit?usp=sharing
 
 ## 10.UPFRONT FEE
 https://docs.google.com/document/d/121CRkifyIGr6gtwiSBAJQoQWQytDzAjUW4HWaOn7go4/edit?ts=5eb96775
