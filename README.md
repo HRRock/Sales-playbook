@@ -44,69 +44,69 @@ CRM-Lead Management (Gui) - Jan 2016
 **CRM - HUBSPOT PROCESS**
 **Basic rule** - in CRM the deal is ALWAYS in the LAST STEP COMPLETED. The easiest steps to understand this are Contract Sent and Opened, but this logic applies to ALL STEPS.  
 
-* **1.** To add the lead qualification field, access the contacts tab, click on the gear on the left side of the screen and click Manage Properties. In Manage Properties, search for the Qualification property. Select the Qualification property and save.
+**1.** To add the lead qualification field, access the contacts tab, click on the gear on the left side of the screen and click Manage Properties. In Manage Properties, search for the Qualification property. Select the Qualification property and save.
 
-* **2.** When researching if the lead is not fit, qualify the lead and fill in the Qualification field.
+**2.** When researching if the lead is not fit, qualify the lead and fill in the Qualification field.
 
-* **3.** If lead fits, connect with it and fill in the qualification field according to what happened in the connection.
+**3.** If lead fits, connect with it and fill in the qualification field according to what happened in the connection.
 
-* **4.** Every time you connect a lead, execute the following process:
+**4.** Every time you connect a lead, execute the following process:
 On the contact page, click + Log Activity. Select the type of contact and put the notes in the open text field. This process measures your activity and will be what we will use to see if the efforts required to achieve the goals are being made. 
 
-* **5.** If the connection was successful (DBA MARKED), create the Deal in the CRM in the CONNECTION step (remember, the deal is always in the stage that has already been completed).
+**5.** If the connection was successful (DBA MARKED), create the Deal in the CRM in the CONNECTION step (remember, the deal is always in the stage that has already been completed).
 
 **Always remember to add the contact (lead email) to the deal**
 
-* **6.** Make the DBA
+**6.** Make the DBA
 
-* **7.** After successful DBA (marked DBS), move the deal to the DBA step
+**7.** After successful DBA (marked DBS), move the deal to the DBA step
 
 **If the DBA has disqualified the lead, move the ideal to Closed Lost**
 
 * **8.** Make the DBS
 
-* **9.** After successful DBS (prescription presented and sent, and next step scheduled), move the deal to DBS
+**9.** After successful DBS (prescription presented and sent, and next step scheduled), move the deal to DBS
 
 **If DBS has disqualified the lead, move the ideal to Closed Lost**
 
-* **10.** Get the verbal agreement (yes to Rock) and company data (CNPJ and Municipal Registration) and BOOK CHAT TO ALIGN THE SIGNED CONTRACT.
+**10.** Get the verbal agreement (yes to Rock) and company data (CNPJ and Municipal Registration) and BOOK CHAT TO ALIGN THE SIGNED CONTRACT.
 
-* **11.** Fill in the customer input form - via the direct Hubspot plugin
+**11.** Fill in the customer input form - via the direct Hubspot plugin
 
-* **12.** Track form approval on the platform
+**12.** Track form approval on the platform
 
-* **13.** As soon as the form is approved, you can send the contract directly from the platform and by doing so, the deal automatically moves to “Contract Sent” in the Hubspot
+**13.** As soon as the form is approved, you can send the contract directly from the platform and by doing so, the deal automatically moves to “Contract Sent” in the Hubspot
 
-* **14.** Tack contract signing by Clicksign with the client and the parties involved
+**14.** Tack contract signing by Clicksign with the client and the parties involved
 
-* **15.** Once the contract is signed, deal automatically moves to “Waiting Payment” on the platform and in the Hubspot
+**15.** Once the contract is signed, deal automatically moves to “Waiting Payment” on the platform and in the Hubspot
 
-* **16.** Follow the customer's registration in Superlógica, together with the finance team so that the invoice, or credit card registration is sent to the customer correctly.
+**16.** Follow the customer's registration in Superlógica, together with the finance team so that the invoice, or credit card registration is sent to the customer correctly.
 
-* **17.** Track invoice payment or credit card registered with the customer
+**17.** Track invoice payment or credit card registered with the customer
 
-* **18.** Once registered payment in Superlógica (if it is a credit card, at the time of registration and confirmation, if it is a bank slip, usually 1 business day after payment), you can confirm the customer's entry on the platform and the deal moves automatically to “Opened” on the Hubspot.
+**18.** Once registered payment in Superlógica (if it is a credit card, at the time of registration and confirmation, if it is a bank slip, usually 1 business day after payment), you can confirm the customer's entry on the platform and the deal moves automatically to “Opened” on the Hubspot.
 
 **CONGRATS!!**  
 
-* **MANDATORY properties to be filled in the Hubspot** 
+**MANDATORY properties to be filled in the Hubspot** 
 Some properties are mandatory when creating the deal, or in the following steps, and filling in these will result in the inclusion of your DBA Held, DBS Held or Deal Open number in Sales Rankin.
 
 Are they: 
-* **Deal owner** - The email of the seller who will be the “owner” of the deal. The Deal Owner (or First Owner) will always be the owner of the customer of the queue he belongs to (ex1. If a deal comes from a Small customer, indicated by a VSB seller, the Deal Owner is from Small, so he receives 80% of the MRR the Second Owner is VSB, so he receives 20% of the MRR, or 50/50 if the two work the deal together, eg 2. If a deal is divided in the same row by two reps, it can be divided 50/50 or 80/20, depending on the degree of activity of each, however, the Deal Owner will ALWAYS be the OWNER OF THE DEAL and therefore can only receive 80% or 50%, never 20%).
-* **Amount** - MRR value of the worked deal. Always remember to update the cost as the deal evolves.
+**Deal owner** - The email of the seller who will be the “owner” of the deal. The Deal Owner (or First Owner) will always be the owner of the customer of the queue he belongs to (ex1. If a deal comes from a Small customer, indicated by a VSB seller, the Deal Owner is from Small, so he receives 80% of the MRR the Second Owner is VSB, so he receives 20% of the MRR, or 50/50 if the two work the deal together, eg 2. If a deal is divided in the same row by two reps, it can be divided 50/50 or 80/20, depending on the degree of activity of each, however, the Deal Owner will ALWAYS be the OWNER OF THE DEAL and therefore can only receive 80% or 50%, never 20%).
+**Amount** - MRR value of the worked deal. Always remember to update the cost as the deal evolves.
 
-* **Deal stage dates** - Once completed all deal stages, we need to enter the dates for each step. Connection Held Data, DBA Held Date, DBS Held Date, and etc.
+**Deal stage dates** - Once completed all deal stages, we need to enter the dates for each step. Connection Held Data, DBA Held Date, DBS Held Date, and etc.
 
-* **Close date** - Always ensure that Close Date is within the month worked (otherwise, the deal will not appear in the Sales Ranking)
+**Close date** - Always ensure that Close Date is within the month worked (otherwise, the deal will not appear in the Sales Ranking)
 
-* **Second Hubspot Owner** - If the deal is shared, you must include the email of the second salesperson working on the deal.
+**Second Hubspot Owner** - If the deal is shared, you must include the email of the second salesperson working on the deal.
 
-* **IQ** - If the deal has been worked on by an IQ, you must include the email address of the IQ involved.
+**IQ** - If the deal has been worked on by an IQ, you must include the email address of the IQ involved.
 
-* **Deal Origin**- Information where the deal came from, can be Inbound (MQL, Lead), Outbound, Indications, and Events.
+**Deal Origin**- Information where the deal came from, can be Inbound (MQL, Lead), Outbound, Indications, and Events.
 
-* **Sales Manager** - email of the queue manager corresponding to the seller who owns the deal.
+**Sales Manager** - email of the queue manager corresponding to the seller who owns the deal.
 
 * **Second Sales Manager** - email of the queue manager corresponding to the second seller of the deal. If the deal is divided into the same queue, the second Sales Manager must be the same as the Sales Manager.
 
