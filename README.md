@@ -41,8 +41,9 @@
 ## 1.HUBSPOT CRM AND LEAD ROTATION
 
 * **CRM-Lead Management (Gui) - Jan 2016**
+
 * **CRM - HUBSPOT PROCESS**
-Basic rule - in CRM the deal is ALWAYS in the LAST STEP COMPLETED. The easiest steps to understand this are Contract Sent and Opened, but this logic applies to ALL STEPS. 
+Basic rule - in CRM the deal is ALWAYS in the LAST STEP COMPLETED. The easiest steps to understand this are Contract Sent and Opened, but this logic applies to * **ALL STEPS**. 
 
 * **1.** To add the lead qualification field, access the contacts tab, click on the gear on the left side of the screen and click Manage Properties. In Manage Properties, search for the Qualification property. Select the Qualification property and save.
 
