@@ -63,7 +63,7 @@ On the contact page, click + Log Activity. Select the type of contact and put th
 
 **If the DBA has disqualified the lead, move the ideal to Closed Lost**
 
-* **8.** Make the DBS
+**8.** Make the DBS
 
 **9.** After successful DBS (prescription presented and sent, and next step scheduled), move the deal to DBS
 
@@ -108,7 +108,7 @@ Are they:
 
 **Sales Manager** - email of the queue manager corresponding to the seller who owns the deal.
 
-* **Second Sales Manager** - email of the queue manager corresponding to the second seller of the deal. If the deal is divided into the same queue, the second Sales Manager must be the same as the Sales Manager.
+**Second Sales Manager** - email of the queue manager corresponding to the second seller of the deal. If the deal is divided into the same queue, the second Sales Manager must be the same as the Sales Manager.
 
 08.2 Deal Split - Filling the deal's split amount
 
