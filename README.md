@@ -42,7 +42,7 @@
 CRM-Lead Management (Gui) - Jan 2016
 
 **CRM - HUBSPOT PROCESS**
-Basic rule - in CRM the deal is ALWAYS in the LAST STEP COMPLETED. The easiest steps to understand this are Contract Sent and Opened, but this logic applies to ALL STEPS.  
+**Basic rule** - in CRM the deal is ALWAYS in the LAST STEP COMPLETED. The easiest steps to understand this are Contract Sent and Opened, but this logic applies to ALL STEPS.  
 
 * **1.** To add the lead qualification field, access the contacts tab, click on the gear on the left side of the screen and click Manage Properties. In Manage Properties, search for the Qualification property. Select the Qualification property and save.
 
@@ -55,19 +55,19 @@ On the contact page, click + Log Activity. Select the type of contact and put th
 
 * **5.** If the connection was successful (DBA MARKED), create the Deal in the CRM in the CONNECTION step (remember, the deal is always in the stage that has already been completed).
 
-* **Always remember to add the contact (lead email) to the deal**
+**Always remember to add the contact (lead email) to the deal**
 
 * **6.** Make the DBA
 
 * **7.** After successful DBA (marked DBS), move the deal to the DBA step
 
-* **If the DBA has disqualified the lead, move the ideal to Closed Lost**
+**If the DBA has disqualified the lead, move the ideal to Closed Lost**
 
 * **8.** Make the DBS
 
 * **9.** After successful DBS (prescription presented and sent, and next step scheduled), move the deal to DBS
 
-* **If DBS has disqualified the lead, move the ideal to Closed Lost**
+**If DBS has disqualified the lead, move the ideal to Closed Lost**
 
 * **10.** Get the verbal agreement (yes to Rock) and company data (CNPJ and Municipal Registration) and BOOK CHAT TO ALIGN THE SIGNED CONTRACT.
 
@@ -125,7 +125,7 @@ To include this property follow the step by step
 
 It is also important to emphasize that we are using this data for our controls, so if you created a deal that belongs to your corresponding queue, you must be the Deal Owner (First Owner). If the deal created does not belong to your corresponding line and you are going to include a second seller in the negotiation, this seller must be the Deal Owner of the deal and you must be the Second Owner.
 
-Rule: The Deal Owner (or First Owner) will always be the owner of the customer of the queue he belongs to (ex1. If a deal comes from a Small customer, indicated by a VSB seller, the Deal Owner is Small, so he receives 80% of the MRR the Second Owner is VSB, so he receives 20% of the MRR, or 50/50 if the two work the deal together, eg 2. If a deal is divided in the same row by two reps, it can be divided 50/50 or 80 / 20, depending on the degree of activity of each one, however, the Deal Owner will ALWAYS be the OWNER OF THE DEAL and therefore can only receive 80% or 50%, never 20%)
+**Rule:** The Deal Owner (or First Owner) will always be the owner of the customer of the queue he belongs to (ex1. If a deal comes from a Small customer, indicated by a VSB seller, the Deal Owner is Small, so he receives 80% of the MRR the Second Owner is VSB, so he receives 20% of the MRR, or 50/50 if the two work the deal together, eg 2. If a deal is divided in the same row by two reps, it can be divided 50/50 or 80 / 20, depending on the degree of activity of each one, however, the Deal Owner will ALWAYS be the OWNER OF THE DEAL and therefore can only receive 80% or 50%, never 20%)
 
 https://docs.google.com/document/d/1LyCAC0BZ0naW-itqZitx1JVRAMrB7tl7wAiYEhWSWvo/edit?ts=569d08a9
 
